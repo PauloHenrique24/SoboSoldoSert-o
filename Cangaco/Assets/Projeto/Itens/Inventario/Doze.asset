@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bf52ee9997a1c7418437b0ba29d1009, type: 3}
+  m_Name: Doze
+  m_EditorClassIdentifier: 
+  name_: Doze
+  image_: {fileID: 3466439679605330524, guid: bc89eb273f25fda4eb5c58a467398a1e, type: 3}
+  InvImage_: {fileID: -2975478488090673534, guid: bc89eb273f25fda4eb5c58a467398a1e, type: 3}
+  can_group: 0
+  max_Itens: 0
+  prefab: {fileID: 2439865331260250711, guid: 7020c3fd8c435404e8957323500f3d4d, type: 3}
+  type: 0
+  bulletPref: {fileID: 6294987020599531424, guid: 786790f4e98725e468ed3e8f39bc777e, type: 3}
+  anim: {fileID: 9100000, guid: c05790c23f0c1b64ab01d39b92a35ac1, type: 2}
+  posTargetBullet: {x: 0.488, y: 0.073, z: 0}
+  TypeMunition: 1
+  fireRate: 0.5
+  speedBullet: 12
+  timerRecharge: 0.7
+  qtd_Bullet: 4
+  timer_Life: 0.7
+  maxMunition: 1
+  range: 0
+  damage: 3

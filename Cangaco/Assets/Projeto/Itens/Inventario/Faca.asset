@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bf52ee9997a1c7418437b0ba29d1009, type: 3}
+  m_Name: Faca
+  m_EditorClassIdentifier: 
+  name_: Faca
+  image_: {fileID: 5656612963327458402, guid: cc3b02bfb73b4ed4cbace950479a8ee3, type: 3}
+  InvImage_: {fileID: 5656612963327458402, guid: cc3b02bfb73b4ed4cbace950479a8ee3, type: 3}
+  can_group: 1
+  max_Itens: 5
+  prefab: {fileID: 4773175514084758705, guid: 48948e967220e0143a06a18760b108af, type: 3}
+  type: 2
+  bulletPref: {fileID: 8226469777451023913, guid: a19f665b08763bd4d94aa96592308a9e, type: 3}
+  anim: {fileID: 0}
+  posTargetBullet: {x: 0.0548, y: -0.0002, z: 0}
+  TypeMunition: 0
+  fireRate: 2
+  speedBullet: 8
+  timerRecharge: 3
+  qtd_Bullet: 1
+  timer_Life: 1
+  maxMunition: 6
+  range: 0
+  damage: 5

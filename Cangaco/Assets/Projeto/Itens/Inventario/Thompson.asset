@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bf52ee9997a1c7418437b0ba29d1009, type: 3}
+  m_Name: Thompson
+  m_EditorClassIdentifier: 
+  name_: Thompson
+  image_: {fileID: 9018711302347264134, guid: 15c73e81a7db84148b476ff6c2a8f399, type: 3}
+  InvImage_: {fileID: 9018711302347264134, guid: 15c73e81a7db84148b476ff6c2a8f399, type: 3}
+  can_group: 0
+  max_Itens: 0
+  prefab: {fileID: 5914619389737503800, guid: 741858ea620b6b34eac5e3fe29ccda26, type: 3}
+  type: 0
+  bulletPref: {fileID: 6294987020599531424, guid: 6bd2bae95cc0392419a1f01cff3f4448, type: 3}
+  anim: {fileID: 9100000, guid: 59b30d6159d86ae41803331b4a2ecbde, type: 2}
+  posTargetBullet: {x: 0.617, y: 0.15, z: 0}
+  TypeMunition: 0
+  fireRate: 0.09
+  speedBullet: 8
+  timerRecharge: 1.6
+  qtd_Bullet: 1
+  timer_Life: 5
+  maxMunition: 32
+  range: 0
+  damage: 3

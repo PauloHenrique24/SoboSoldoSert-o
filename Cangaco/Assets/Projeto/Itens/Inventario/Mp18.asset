@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bf52ee9997a1c7418437b0ba29d1009, type: 3}
+  m_Name: Mp18
+  m_EditorClassIdentifier: 
+  name_: Mp18
+  image_: {fileID: 8501403127295832863, guid: a7fc24ae6ff902649b1138996d9d8c5f, type: 3}
+  InvImage_: {fileID: 6155926309126607271, guid: a7fc24ae6ff902649b1138996d9d8c5f, type: 3}
+  can_group: 0
+  max_Itens: 0
+  prefab: {fileID: 4365100460985857677, guid: 0d75ca4e55a051e499b47757a587de42, type: 3}
+  type: 0
+  bulletPref: {fileID: 6294987020599531424, guid: 6bd2bae95cc0392419a1f01cff3f4448, type: 3}
+  anim: {fileID: 9100000, guid: 48fe427135e704c4b8096f6e0c851866, type: 2}
+  posTargetBullet: {x: 0.639, y: 0.071, z: 0}
+  TypeMunition: 0
+  fireRate: 0.12
+  speedBullet: 8
+  timerRecharge: 1.6
+  qtd_Bullet: 1
+  timer_Life: 5
+  maxMunition: 32
+  range: 0
+  damage: 3

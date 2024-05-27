@@ -1,0 +1,4 @@
+repository "Cangaco@UltraByte@cloud"
+  path "/"
+    br "/main"
+    co "/main"

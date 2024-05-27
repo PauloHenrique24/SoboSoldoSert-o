@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bf52ee9997a1c7418437b0ba29d1009, type: 3}
+  m_Name: Facao
+  m_EditorClassIdentifier: 
+  name_: Facao
+  image_: {fileID: -1371098321097993519, guid: 15831308526583f48b72a6c219041cae, type: 3}
+  InvImage_: {fileID: -1371098321097993519, guid: 15831308526583f48b72a6c219041cae, type: 3}
+  can_group: 0
+  max_Itens: 0
+  prefab: {fileID: 2803128352328129130, guid: e782a56d10afc224eb8bde213ac4985b, type: 3}
+  type: 1
+  bulletPref: {fileID: 0}
+  anim: {fileID: 9100000, guid: 6ea7e77ea91dd5c4da312618d1d906f6, type: 2}
+  posTargetBullet: {x: 0.253, y: 0.126, z: 0}
+  TypeMunition: 0
+  fireRate: 1
+  speedBullet: 0
+  timerRecharge: 0
+  qtd_Bullet: 0
+  timer_Life: 0
+  maxMunition: 0
+  range: 0.24
+  damage: 0

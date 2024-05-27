@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bf52ee9997a1c7418437b0ba29d1009, type: 3}
+  m_Name: Pistola
+  m_EditorClassIdentifier: 
+  name_: Pistola
+  image_: {fileID: 5369700513739508688, guid: 33d657040ac60b54cb514efaf6ed380c, type: 3}
+  InvImage_: {fileID: 5369700513739508688, guid: 33d657040ac60b54cb514efaf6ed380c, type: 3}
+  can_group: 0
+  max_Itens: 0
+  prefab: {fileID: 8591450402661029917, guid: 7e72d9ada218a5d4cafb49353b21bfde, type: 3}
+  type: 0
+  bulletPref: {fileID: 6294987020599531424, guid: 6bd2bae95cc0392419a1f01cff3f4448, type: 3}
+  anim: {fileID: 9100000, guid: 8e8ed4013cc336f429d5b6fafedb3d25, type: 2}
+  posTargetBullet: {x: 0.293, y: 0.175, z: 0}
+  TypeMunition: 0
+  fireRate: 0.6
+  speedBullet: 6
+  timerRecharge: 1
+  qtd_Bullet: 1
+  timer_Life: 5
+  maxMunition: 8
+  range: 0
+  damage: 3
